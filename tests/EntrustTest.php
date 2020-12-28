@@ -5,6 +5,9 @@ use Zizaco\Entrust\Entrust;
 use Illuminate\Support\Facades\Facade;
 use Mockery as m;
 
+/**
+ * Class EntrustTest
+ */
 class EntrustTest extends TestCase
 {
     protected $nullFilterTest;
